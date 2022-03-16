@@ -1,5 +1,9 @@
 # Five-Oclock-Somewhere
 
+Start business-service on port 5000
+
+Start weather-service on port 5050
+
 In the project directory, you can run:
 
 ### `npm install`
