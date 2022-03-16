@@ -1,0 +1,97 @@
+body {
+  background-image: url('./images/map.jpeg');
+  background-size: cover;
+  background-color: bisque;
+}
+
+h1 {
+  color: maroon;
+  font-size: 40px;
+  text-align: center;
+}
+
+h2 {
+  color: maroon;
+  font-size: 30px;
+  text-align: center;
+}
+
+label {
+  font-size: 24px;
+  color: brown;
+  margin-bottom: 10px;
+}
+
+p {
+  text-align: center;
+  font-size: 24px;
+  color: brown;
+}
+
+img {
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+  border: 1px solid black;
+  
+}
+
+.selection {
+  display: inline-block;
+  width: 32.8%;
+}
+
+
+input {
+  border: 1px solid black;
+  font-size: 24px;
+  width: 32.8%;
+}
+
+a:link {
+  color: chocolate;
+}
+
+a:visited {
+  color: darkorange;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+nav {
+  text-align: center;
+}
+
+form {
+  text-align: center;
+  justify-content: center;
+}
+
+table, td {
+  width: 600px;
+  border: 1px solid black;
+  background: rgb(253, 251, 247);
+  ;
+}
+
+th {
+  border: 1px solid black;
+  background: rgb(250, 225, 188);
+}
+
+a {
+  margin-left: 20px;
+  margin-bottom: 20px;
+}
+
+.rating {
+  text-align: center;
+}
+
+.where {
+  margin-left: 10px;
+}
